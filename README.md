@@ -37,7 +37,7 @@ Dieses Quiz zeigt Ihnen, wie gut Sie sich bereits auskennen!
 
 -------------------
 
-![Arbeitsschutz](assets/images/schilder_an_zaun.jpg "_Quelle: Pixabay, planet-fox_")<!-- style="max-width: 700px; width: 100%" -->
+![Arbeitsschutzschild mit Hinweisen zu Helm- und Fußschutzpflicht an einem Bauzaun.](assets/images/schilder_an_zaun.jpg "Arbeitsschutzschild mit Sicherheitshinweisen an einem Bauzaun. Bild von [planet_fox via Pixabay](https://pixabay.com/de/photos/arbeitsschutz-schild-bauzaun-4911106/), Pixabay Content License, veröffentlicht am 8. März 2020.")<!-- style="max-width: 700px; width: 100%" -->
 
 <!-- class="highlight"-->
 Viel Erfolg!
@@ -71,7 +71,7 @@ Viel Erfolg!
 
 ### 2. Füllen Sie den Lückentext aus.
 
-![Rettungszeichen](assets/images/rettungsausgang_plastik.jpg "_Quelle: Pixabay, MelSi_")<!-- style="width: 100%; max-width: 300px" -->
+![Grünes Hinweisschild mit weißem Pfeil, das als Wegweiser oder Fluchtweg-Zeichen dient.](assets/images/rettungsausgang_plastik.jpg "Wegweisendes Hinweisschild mit Pfeil für Richtung, Durchgang oder Fluchtweg. Bild von [MelSi via Pixabay](https://pixabay.com/de/photos/schild-hinweis-wegweiser-pfeil-710184/), Pixabay Content License, veröffentlicht am 7. April 2015.")<!-- style="width: 100%; max-width: 300px" -->
 
 ---
 
@@ -113,4 +113,4 @@ __Ordnen Sie die Piktogramme ihrer jeweiligen Bedeutung zu.__
 
 --------------------
 
-![Jubel](assets/images/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Bunte Silhouetten mehrerer springender Menschen vor weißem Hintergrund als Symbol für Freude, Spaß und Lebensfreude.](assets/images/colorfull_jumping.jpg "Farbige Silhouetten springender Menschen als Ausdruck von Freude und Spaß. Bild von [geralt via Pixabay](https://pixabay.com/de/illustrations/freude-springen-luftsprung-spa%C3%9F-3940425/), Pixabay Content License, veröffentlicht am 19. Januar 2019.")
